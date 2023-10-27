@@ -1,5 +1,7 @@
 # Estrutura de Dados e Algoritmos em Python
 
+**(Em processo de atualização)**
+
 Este repositório é um recurso educacional baseado no curso de Estruturas de Dados e Algoritmos em Python da IA Expert Academy, dedicado ao aprendizado das bases da programação em Python e à exploração aprofundada das estruturas de dados e algoritmos, do qual eu tive a oportunidade de participar. Fomos orientados a criar todas as implementações a partir do zero, sem o uso de bibliotecas prontas, para fornecer uma compreensão sólida de como as estruturas de dados e algoritmos funcionam na linguagem Python.
 
 ## Conteúdo Destacado:
