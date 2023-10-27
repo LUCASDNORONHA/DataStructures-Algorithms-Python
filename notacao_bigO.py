@@ -4,6 +4,7 @@
 # Calcular a soma dos primeiros n números inteiros positivos, onde n é um número inteiro positivo.
 # A partir de 1 até um valor específico, representado por n.
 
+# Importando módulo timeit
 import timeit
 
 # Função soma de n números consecutivos utilizando o laço for.
