@@ -24,5 +24,5 @@ Este repositório é uma jornada prática para construir uma compreensão profun
 ##### Nota Importante: 
 Todo o código é desenvolvido do zero, sem o uso de bibliotecas externas.
 
-<a href="https://www.kaggle.com/lucasdiasnoronha"><img src="https://www.educative.io/api/page/5323562194829312/image/download/4539048568815616" alt="Data Structure Vetor"></a>
+<a href="https://www.kaggle.com/lucasdiasnoronha"><img src="https://th.bing.com/th/id/OIP.M1a6CK3vEgj0yoACIXE61QHaDr?pid=ImgDet&rs=1" alt="Data Structure Vetor"></a>
 
