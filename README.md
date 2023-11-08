@@ -24,5 +24,5 @@ Este repositório é uma jornada prática para construir uma compreensão profun
 ##### Nota Importante: 
 Todo o código é desenvolvido do zero, sem o uso de bibliotecas externas.
 
-<a href="https://www.kaggle.com/lucasdiasnoronha"><img src="https://dcxlearn.com/wp-content/uploads/2020/05/Types-of-Blockchain-2048x1153.jpg" alt="Data Structure Vetor"></a>
+<a href="https://www.kaggle.com/lucasdiasnoronha"><img src="https://media.licdn.com/dms/image/C5612AQGdKB0Noc6URA/article-cover_image-shrink_600_2000/0/1624929399876?e=2147483647&v=beta&t=_s5T8z_q4xzBh2MWOrPQmcwhh6zvFuN1PUtR17g1t60" alt="Data Structure Vetor"></a>
 
